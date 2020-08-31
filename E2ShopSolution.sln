@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2ShopSolution.Data", "E2ShopSolution.Data\E2ShopSolution.Data.csproj", "{08D21FCC-8369-4868-B175-B6A0DDB088ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2ShopSolution.Application", "E2ShopSolution.Application\E2ShopSolution.Application.csproj", "{05351BB6-BF35-405F-8515-0CD8E0F02037}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{4B59862D-3F9A-4088-B00D-FF4376ACFD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B59862D-3F9A-4088-B00D-FF4376ACFD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B59862D-3F9A-4088-B00D-FF4376ACFD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D21FCC-8369-4868-B175-B6A0DDB088ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D21FCC-8369-4868-B175-B6A0DDB088ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D21FCC-8369-4868-B175-B6A0DDB088ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D21FCC-8369-4868-B175-B6A0DDB088ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05351BB6-BF35-405F-8515-0CD8E0F02037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05351BB6-BF35-405F-8515-0CD8E0F02037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05351BB6-BF35-405F-8515-0CD8E0F02037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05351BB6-BF35-405F-8515-0CD8E0F02037}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
